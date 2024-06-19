@@ -14,14 +14,11 @@ My name is Louis Walter and I'm a Senior Full Stack Developer with rich experien
 
 Skills:
 
-- Front-end technologies: HTML, CSS, JavaScript, TypeScript
-- Front-end frameworks: React, Angular, Vue.js, Alpine.js, Gatsby.js, Svelte
-- Mobile App technologies: React Native, Ionic (Angular, React, Vue), Flutter
-- Back-end technologies: Node.js, Ruby on Rails, Nest.js, Laravel
-- Database technologies: MySQL, MongoDB, PostgreSQL
-- UI frameworks: Tailwind CSS, BootStrap, Material UI, Chakra UI
-- Version control systems: Git, Bitbucket, SVN
-- Cloud services: AWS, Google Cloud Platform, Microsoft Azure
+- Basic Languages: C, C++, Java, Javascript, Python, R
+- Front-End: HTML5, CSS, Javascript, Typescript, React, Angular, Vue, Next, Nuxt, Vux ...
+- Back-End: Laravel, Node.js, Django and CMS(Wordpress, Drupal, Magento, Shopify, prestashop, Woocommerce) ...
+- Blockchain: Web3.js Ether.js, Binance Smart Chain, Solidity, Defi(AMM models, Yield Farming, Skating, Liquidity Pools), Dex, NFT...
+- Other Tech stack: DB(Mysql, Mongodb, FireBase, Postgre, GraphQL), VCS (Git, Gogs) DevOps skill (Vercel, AWS, Heroku)
 
 I take a collaborative approach to project management, working closely with clients to understand their goals and delivering solutions that exceed their expectations.
 
